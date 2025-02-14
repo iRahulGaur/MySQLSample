@@ -152,10 +152,5 @@ Feel free to **fork, modify, and contribute** to this project. Pull requests are
 
 ---
 
-## 📝 License
-This project is licensed under the **MIT License**. You are free to use and modify it for personal or commercial use.
-
----
-
-🔗 **Created By:** *[Your Name or GitHub Profile](https://github.com/iRahulGaur)*  
+🔗 **Created By:** *[Rahul Gaur](https://github.com/iRahulGaur)*  
 ⭐ Don't forget to **star this repo** if you find it useful!
