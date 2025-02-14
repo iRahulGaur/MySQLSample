@@ -1,0 +1,230 @@
+sale_id,customer_id,product_id,quantity,total_amount,sale_date,region_x,name_x,email,region_y,signup_time,name_y,category,price,stock_quantity
+1,1,4,5,308.68,2025-02-12 19:45:52,West,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+2,7,3,2,314.87,2025-02-10 08:15:34,South,Customer 7,customer7@example.com,East,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+3,3,4,5,189.23,2025-02-10 10:47:12,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+4,10,2,3,452.96,2025-02-10 12:30:45,North,Customer 10,customer10@example.com,West,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+5,5,1,4,256.75,2025-02-10 14:05:23,West,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+6,2,5,1,98.54,2025-02-10 16:28:10,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+7,8,3,2,378.42,2025-02-10 18:43:55,East,Customer 8,customer8@example.com,West,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+8,4,2,3,415.87,2025-02-10 20:15:29,North,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+9,1,4,5,128.39,2025-02-10 22:55:14,West,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+10,9,1,2,376.54,2025-02-11 01:10:45,South,Customer 9,customer9@example.com,North,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+11,6,5,3,472.33,2025-02-11 03:27:30,East,Customer 6,customer6@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+12,3,3,4,159.87,2025-02-11 05:42:18,North,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+13,10,2,1,90.29,2025-02-11 07:55:40,West,Customer 10,customer10@example.com,West,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+14,5,4,5,285.75,2025-02-11 10:15:05,South,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+15,7,1,2,315.68,2025-02-11 12:32:19,East,Customer 7,customer7@example.com,East,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+16,2,5,3,198.42,2025-02-11 14:48:52,North,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+17,8,3,4,402.87,2025-02-11 16:59:33,West,Customer 8,customer8@example.com,West,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+18,4,2,1,87.29,2025-02-11 19:15:27,South,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+19,1,4,5,295.68,2025-02-11 21:30:40,East,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+20,9,1,2,399.54,2025-02-11 23:45:50,North,Customer 9,customer9@example.com,North,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+21,6,5,3,475.33,2025-02-12 02:05:15,West,Customer 6,customer6@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+22,3,3,4,162.87,2025-02-12 04:22:30,South,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+23,10,2,1,93.29,2025-02-12 06:38:55,East,Customer 10,customer10@example.com,West,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+24,5,4,5,289.75,2025-02-12 08:50:42,North,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+25,7,1,2,328.68,2025-02-12 11:05:37,West,Customer 7,customer7@example.com,East,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+26,2,5,3,205.42,2025-02-12 13:20:10,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+27,8,3,4,415.87,2025-02-12 15:33:28,East,Customer 8,customer8@example.com,West,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+28,4,2,1,95.29,2025-02-12 17:50:40,North,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+30,5,3,3,296.34,2025-02-10 22:12:56,West,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+31,2,5,2,109.0,2025-02-11 01:10:49,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+32,3,1,8,569.45,2025-02-11 19:02:01,North,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+33,2,5,4,242.44,2025-02-11 00:31:39,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+34,4,3,2,92.2,2025-02-10 22:03:21,West,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+35,2,3,3,84.44,2025-02-11 02:25:50,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+36,5,3,2,84.66,2025-02-10 05:15:14,East,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+37,4,4,2,163.01,2025-02-11 01:54:20,South,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+38,3,5,1,22.65,2025-02-10 15:53:53,South,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+39,3,2,2,112.93,2025-02-10 07:23:10,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+40,1,4,2,191.46,2025-02-10 21:59:52,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+41,4,3,5,433.02,2025-02-10 00:35:31,South,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+42,3,1,3,216.2,2025-02-11 12:24:34,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+43,1,4,4,161.65,2025-02-10 19:29:53,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+44,1,1,2,148.27,2025-02-10 14:49:40,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+45,3,2,6,377.15,2025-02-11 04:38:49,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+46,2,4,1,68.02,2025-02-10 04:52:07,North,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+47,3,3,3,64.65,2025-02-10 07:59:44,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+48,1,4,6,426.11,2025-02-11 20:41:01,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+49,3,4,3,198.67,2025-02-11 04:13:51,South,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+50,3,3,3,187.2,2025-02-11 19:54:42,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+51,5,3,2,55.3,2025-02-11 11:02:03,West,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+52,4,1,4,248.24,2025-02-10 05:25:27,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+53,5,4,3,92.96,2025-02-11 02:36:11,East,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+54,4,4,6,297.35,2025-02-11 14:46:42,West,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+55,2,3,6,161.93,2025-02-11 23:02:15,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+56,1,1,4,328.6,2025-02-10 20:54:45,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+57,2,2,6,204.44,2025-02-11 23:24:11,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+58,4,3,5,325.6,2025-02-11 05:57:05,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+59,6,3,5,200.31,2025-02-11 19:37:57,West,Customer 6,customer6@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+60,4,1,3,228.11,2025-02-11 22:05:53,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+61,6,1,4,148.98,2025-02-10 19:14:56,West,Customer 6,customer6@example.com,South,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+62,5,5,6,227.61,2025-02-11 16:41:19,East,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+63,4,5,4,88.45,2025-02-11 16:31:06,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+64,1,1,4,305.33,2025-02-10 09:15:08,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+65,5,4,3,177.09,2025-02-11 20:51:31,West,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+66,4,5,2,159.78,2025-02-10 04:16:56,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+67,4,2,3,105.68,2025-02-10 22:31:09,West,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+68,2,4,3,184.75,2025-02-10 01:47:22,North,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+69,2,2,4,180.54,2025-02-11 07:55:44,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+70,5,5,2,93.89,2025-02-10 12:08:25,East,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+71,3,2,3,149.48,2025-02-10 06:27:14,North,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+72,1,3,4,83.02,2025-02-11 16:11:57,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+73,3,4,1,24.83,2025-02-10 21:39:27,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+74,4,4,2,143.88,2025-02-11 22:36:12,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+75,2,4,1,36.44,2025-02-10 22:39:24,North,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+76,3,1,6,423.36,2025-02-10 19:05:16,South,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+77,5,4,4,313.85,2025-02-10 07:15:20,West,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+78,3,3,2,50.51,2025-02-10 02:43:38,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+79,2,1,5,240.53,2025-02-10 02:38:35,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+80,5,3,3,296.34,2025-02-10 22:12:56,West,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+81,2,5,2,109.0,2025-02-11 01:10:49,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+82,3,1,8,569.45,2025-02-11 19:02:01,North,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+83,2,5,4,242.44,2025-02-11 00:31:39,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+84,4,3,2,92.2,2025-02-10 22:03:21,West,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+85,2,3,3,84.44,2025-02-11 02:25:50,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+86,5,3,2,84.66,2025-02-10 05:15:14,East,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+87,4,4,2,163.01,2025-02-11 01:54:20,South,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+88,3,5,1,22.65,2025-02-10 15:53:53,South,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+89,3,2,2,112.93,2025-02-10 07:23:10,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+90,1,4,2,191.46,2025-02-10 21:59:52,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+91,4,3,5,433.02,2025-02-10 00:35:31,South,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+92,3,1,3,216.2,2025-02-11 12:24:34,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+93,1,4,4,161.65,2025-02-10 19:29:53,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+94,1,1,2,148.27,2025-02-10 14:49:40,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+95,3,2,6,377.15,2025-02-11 04:38:49,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+96,2,4,1,68.02,2025-02-10 04:52:07,North,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+97,3,3,3,64.65,2025-02-10 07:59:44,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+98,1,4,6,426.11,2025-02-11 20:41:01,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+99,3,4,3,198.67,2025-02-11 04:13:51,South,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+100,3,3,3,187.2,2025-02-11 19:54:42,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+101,5,3,2,55.3,2025-02-11 11:02:03,West,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+102,4,1,4,248.24,2025-02-10 05:25:27,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+103,5,4,3,92.96,2025-02-11 02:36:11,East,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+104,4,4,6,297.35,2025-02-11 14:46:42,West,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+105,2,3,6,161.93,2025-02-11 23:02:15,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+106,1,1,4,328.6,2025-02-10 20:54:45,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+107,2,2,6,204.44,2025-02-11 23:24:11,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+108,4,3,5,325.6,2025-02-11 05:57:05,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+109,6,3,5,200.31,2025-02-11 19:37:57,West,Customer 6,customer6@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+110,4,1,3,228.11,2025-02-11 22:05:53,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+111,6,1,4,148.98,2025-02-10 19:14:56,West,Customer 6,customer6@example.com,South,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+112,5,5,6,227.61,2025-02-11 16:41:19,East,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+113,4,5,4,88.45,2025-02-11 16:31:06,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+114,1,1,4,305.33,2025-02-10 09:15:08,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+115,5,4,3,177.09,2025-02-11 20:51:31,West,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+116,4,5,2,159.78,2025-02-10 04:16:56,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+117,4,2,3,105.68,2025-02-10 22:31:09,West,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+118,2,4,3,184.75,2025-02-10 01:47:22,North,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+119,2,2,4,180.54,2025-02-11 07:55:44,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+120,5,5,2,93.89,2025-02-10 12:08:25,East,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+121,3,2,3,149.48,2025-02-10 06:27:14,North,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+122,1,3,4,83.02,2025-02-11 16:11:57,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+123,3,4,1,24.83,2025-02-10 21:39:27,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+124,4,4,2,143.88,2025-02-11 22:36:12,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+125,2,4,1,36.44,2025-02-10 22:39:24,North,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+126,3,1,6,423.36,2025-02-10 19:05:16,South,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+127,5,4,4,313.85,2025-02-10 07:15:20,West,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+128,3,3,2,50.51,2025-02-10 02:43:38,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+129,2,1,5,240.53,2025-02-10 02:38:35,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+130,3,1,5,268.22,2025-02-11 16:29:28,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+131,6,5,6,389.98,2025-02-10 16:17:26,West,Customer 6,customer6@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+132,2,2,3,106.56,2025-02-11 12:35:58,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+133,2,1,4,188.43,2025-02-10 22:43:36,North,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+134,3,2,4,124.8,2025-02-10 02:48:39,South,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+135,4,3,3,188.46,2025-02-10 01:09:19,South,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+136,2,3,1,79.0,2025-02-10 01:00:33,North,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+137,4,3,6,247.41,2025-02-11 04:19:31,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+138,5,1,4,313.82,2025-02-11 18:15:51,East,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+139,2,1,7,470.89,2025-02-11 18:59:12,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+140,2,3,4,375.47,2025-02-11 16:20:47,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+141,3,2,2,144.24,2025-02-11 07:58:43,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+142,3,2,2,109.77,2025-02-10 05:58:04,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+143,5,3,5,181.73,2025-02-10 08:19:07,East,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+144,2,3,3,218.13,2025-02-11 02:57:25,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+145,2,4,4,276.06,2025-02-11 17:31:52,North,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+146,4,2,4,112.93,2025-02-11 09:48:20,South,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+147,1,4,2,172.2,2025-02-10 23:56:47,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+148,2,2,3,294.75,2025-02-11 14:33:53,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+149,5,3,8,204.92,2025-02-10 01:08:03,West,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+150,2,1,5,227.38,2025-02-10 23:28:14,North,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+151,5,1,2,91.95,2025-02-11 23:42:47,West,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+152,4,5,5,129.07,2025-02-10 09:50:47,South,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+153,6,5,2,105.85,2025-02-11 23:05:05,West,Customer 6,customer6@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+154,5,1,4,239.95,2025-02-11 13:13:46,West,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+155,4,5,5,103.11,2025-02-11 14:30:11,South,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+156,4,3,5,433.3,2025-02-10 09:36:45,West,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+157,4,4,4,147.16,2025-02-11 15:08:05,South,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+158,1,5,4,276.71,2025-02-10 03:21:28,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+159,4,5,5,130.7,2025-02-10 00:37:53,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+160,6,5,1,86.41,2025-02-11 10:23:57,West,Customer 6,customer6@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+161,5,5,6,137.55,2025-02-11 15:24:33,West,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+162,3,1,5,141.34,2025-02-10 15:10:33,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+163,2,1,5,351.74,2025-02-10 20:57:54,North,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+164,1,2,3,132.06,2025-02-11 16:54:00,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+165,5,5,4,122.6,2025-02-11 01:20:23,East,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+166,3,5,2,153.14,2025-02-10 19:09:37,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+167,6,5,2,174.49,2025-02-11 03:44:39,West,Customer 6,customer6@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+168,4,4,3,87.85,2025-02-10 07:46:34,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+169,4,2,2,142.99,2025-02-10 02:40:15,West,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+170,3,1,1,81.44,2025-02-10 06:03:07,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+171,5,3,4,249.15,2025-02-10 12:43:47,West,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+172,4,5,2,193.47,2025-02-10 17:15:46,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+173,1,3,1,33.66,2025-02-10 17:00:28,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+174,4,4,1,64.96,2025-02-11 17:15:37,South,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+175,3,4,6,157.18,2025-02-10 09:49:07,South,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+176,5,4,5,468.68,2025-02-10 20:13:53,East,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+177,3,3,6,434.33,2025-02-11 09:06:28,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+178,3,5,6,481.48,2025-02-11 05:54:27,South,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+179,2,1,7,170.03,2025-02-10 14:38:08,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+180,4,5,4,307.57,2025-02-10 14:20:30,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+181,3,5,2,99.77,2025-02-11 18:14:57,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+182,4,2,5,363.78,2025-02-10 15:29:45,West,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+183,2,1,6,499.39,2025-02-11 13:28:35,North,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+184,2,5,5,157.82,2025-02-10 20:04:12,North,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+185,1,2,3,121.59,2025-02-11 03:26:25,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+186,3,1,6,594.3,2025-02-10 09:08:50,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+187,4,3,5,104.72,2025-02-11 06:28:46,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+188,4,5,5,289.13,2025-02-11 02:41:06,South,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+189,5,1,4,111.56,2025-02-11 03:18:51,West,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+190,6,2,5,306.14,2025-02-10 10:04:44,West,Customer 6,customer6@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+191,2,3,5,348.11,2025-02-10 00:27:30,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+192,4,2,2,161.83,2025-02-11 10:27:45,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+193,4,4,3,166.14,2025-02-10 23:31:40,South,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+194,6,1,3,220.99,2025-02-10 07:01:33,West,Customer 6,customer6@example.com,South,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+195,4,4,1,41.83,2025-02-11 19:20:01,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+196,2,4,4,232.6,2025-02-11 02:56:01,North,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+197,3,2,2,47.74,2025-02-11 04:09:04,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+198,3,4,6,442.28,2025-02-10 10:57:17,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+199,6,1,4,130.41,2025-02-11 15:41:50,West,Customer 6,customer6@example.com,South,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+200,3,3,2,160.36,2025-02-10 16:18:12,North,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+201,3,3,4,125.97,2025-02-11 15:42:00,North,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+202,4,3,6,510.49,2025-02-11 12:29:03,South,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+203,1,3,6,375.26,2025-02-10 12:07:29,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+204,4,2,1,24.17,2025-02-10 12:38:16,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+205,3,4,2,66.88,2025-02-11 20:02:10,South,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+206,2,5,4,157.17,2025-02-10 01:56:37,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+207,4,4,1,40.04,2025-02-11 13:46:07,West,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+208,4,3,7,601.39,2025-02-10 15:06:20,West,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+209,4,3,6,367.58,2025-02-10 16:30:34,West,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+210,5,2,4,180.42,2025-02-10 02:33:20,West,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+211,3,5,5,182.41,2025-02-10 22:08:07,South,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+212,3,3,6,330.77,2025-02-10 03:02:26,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+213,3,5,3,251.08,2025-02-11 13:20:30,East,Customer 3,customer3@example.com,East,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+214,5,4,4,308.85,2025-02-11 21:33:45,West,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+215,1,5,6,552.18,2025-02-10 22:10:13,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+216,4,4,5,134.01,2025-02-10 12:08:24,West,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+217,1,2,2,73.67,2025-02-11 09:37:26,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+218,6,5,4,156.74,2025-02-10 08:38:49,West,Customer 6,customer6@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+219,2,3,5,329.01,2025-02-11 15:07:49,North,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+220,4,5,6,529.97,2025-02-11 02:54:44,West,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+221,5,1,6,198.34,2025-02-10 09:38:28,East,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+222,5,2,5,201.48,2025-02-10 13:34:44,East,Customer 5,customer5@example.com,North,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+223,2,4,4,262.45,2025-02-10 00:59:32,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,USB drive,Electronics,18.36,95
+224,2,5,4,98.98,2025-02-11 19:17:31,South,Customer 2,customer2@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+225,1,1,8,642.48,2025-02-11 12:13:27,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,Jeans,Clothing,87.56,68
+226,4,2,4,336.21,2025-02-11 16:03:58,West,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+227,4,3,6,234.36,2025-02-10 03:00:54,South,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Jersey,Clothing,92.47,25
+228,4,5,1,56.44,2025-02-11 20:46:54,East,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Pizza combo,Food,83.39,50
+229,4,2,3,65.8,2025-02-11 20:11:48,South,Customer 4,customer4@example.com,South,2025-02-14 20:32:20,Large pizza,Food,31.29,90
+230,1,2,3,90.0,2025-02-14 10:30:00,North,Customer 1,customer1@example.com,North,2025-02-14 20:32:20,Large pizza,Food,31.29,90
